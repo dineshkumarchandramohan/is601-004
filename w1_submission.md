@@ -1,6 +1,6 @@
 <table><tr><td> <em>Assignment: </em> S22-M1-GettingStarted</td></tr>
 <tr><td> <em>Student: </em> Dinesh Kumar Chandramohan(dc648)</td></tr>
-<tr><td> <em>Generated: </em> 1/27/2022 11:16:34 PM</td></tr>
+<tr><td> <em>Generated: </em> 1/28/2022 8:38:08 PM</td></tr>
 <tr><td> <em>Grading Link: </em> <a href="https://learn.ethereallab.app/homework/IS601-004-S22/s22-m1-gettingstarted/grade/dc648" target="_blank">Grading</a></table>
 <table><tr><td> <em>Instructions: </em> <ol>
 <li>Create a repository on github, use the format [course]-[section] as the repository name.</li>
@@ -35,28 +35,28 @@
 </td></tr></table>
 <table><tr><td> <em>Deliverable 1: </em> IDE Setup Evidence </td><tr><td><em>Status: </em> <img width="100" height="20" src="https://via.placeholder.com/400x120/009955/fff?text=Complete"></td></tr>
 <tr><td><table><tr><td> <em>Sub-Task 1: </em> Screenshot showing requested extensions installed</td></tr>
-<tr><td><table><tr><td><img width="768px" src="https://user-images.githubusercontent.com/98123760/151484400-d9600bea-f025-49f7-87c3-b79a0299cdb4.png"/></td></tr>
-<tr><td> <em>Caption:</em> <p>Plugins installed sct-reenshot<br></p>
+<tr><td><table><tr><td><img width="768px" src="https://user-images.githubusercontent.com/98123760/151645860-18fc0a7f-0efb-4a99-9a39-508d3e034c52.png"/></td></tr>
+<tr><td> <em>Caption:</em> <p>Plugins installed<br></p>
 </td></tr>
 </table></td></tr>
 </table></td></tr>
 <table><tr><td> <em>Deliverable 2: </em> Verify Database Creation/Connectivity </td><tr><td><em>Status: </em> <img width="100" height="20" src="https://via.placeholder.com/400x120/009955/fff?text=Complete"></td></tr>
 <tr><td><table><tr><td> <em>Sub-Task 1: </em> Screenshot showing your database and initial tables from your IDE MySQL extension</td></tr>
-<tr><td><table><tr><td><img width="768px" src="https://user-images.githubusercontent.com/98123760/151495368-d76928f4-84e7-408e-ba81-e8728a2e0d19.png"/></td></tr>
-<tr><td> <em>Caption:</em> <p>Database creation Screenshot<br></p>
+<tr><td><table><tr><td><img width="768px" src="https://user-images.githubusercontent.com/98123760/151645878-0cd05692-0b4c-44de-ac41-9a045b1b0f82.png"/></td></tr>
+<tr><td> <em>Caption:</em> <p>Database screenshot<br></p>
 </td></tr>
 </table></td></tr>
 </table></td></tr>
 <table><tr><td> <em>Deliverable 3: </em> Discussion </td><tr><td><em>Status: </em> <img width="100" height="20" src="https://via.placeholder.com/400x120/009955/fff?text=Complete"></td></tr>
 <tr><td><table><tr><td> <em>Sub-Task 1: </em> Talk about what you learned during this module, anything interesting, new, etc.</td></tr>
-<tr><td> <em>Response:</em> <p>1.I am got the chance to learn about the full setup of github<br>and pycharm<br>2.It gave an understanding of how to use git commands properly<br></p><br></td></tr>
+<tr><td> <em>Response:</em> <p>1.I am able to learn about github and python setup<br>2.Got some knowledge on<br>git commands<br></p><br></td></tr>
 </table></td></tr>
 <table><tr><td> <em>Deliverable 4: </em> Issues </td><tr><td><em>Status: </em> <img width="100" height="20" src="https://via.placeholder.com/400x120/009955/fff?text=Complete"></td></tr>
 <tr><td><table><tr><td> <em>Sub-Task 1: </em> Did you have any issues? If so, how did you resolve them? If no issues, just type "no issues".</td></tr>
-<tr><td> <em>Response:</em> <p>1.I had issue with git commands,but i was able to resolve it once<br>seeing the video<br></p><br></td></tr>
+<tr><td> <em>Response:</em> <p>1.I faced issue in executing git commands but was able to resolve it<br>later after seeing the videos<br></p><br></td></tr>
 </table></td></tr>
 <table><tr><td> <em>Deliverable 5: </em> Pull Request Link </td><tr><td><em>Status: </em> <img width="100" height="20" src="https://via.placeholder.com/400x120/009955/fff?text=Complete"></td></tr>
 <tr><td><table><tr><td> <em>Sub-Task 1: </em> Add the pull request link here (it should end in /pull/#)</td></tr>
-<tr><td>[https://github.com/dineshkumarchandramohan/is601-004/pull/1](https://github.com/dineshkumarchandramohan/is601-004/pull/1)</td></tr>
+<tr><td>[https://github.com/dineshkumarchandramohan/is601-004/pul](https://github.com/dineshkumarchandramohan/is601-004/pul)</td></tr>
 </table></td></tr>
 <table><tr><td><em>Grading Link: </em><a href="https://learn.ethereallab.app/homework/IS601-004-S22/s22-m1-gettingstarted/grade/dc648" target="_blank">Grading</a></td></tr></table>
