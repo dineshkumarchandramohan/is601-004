@@ -8,7 +8,7 @@ def process_array(num, arr):
     print("\nUCID:- dc648\n Processing Array({}): \n\n".format(num))
     print(arr)
     total = 0.00
-    for y in arr:
+    for y  in arr:
         total=total+y
     # TODO add necessary code here for sum; every number must have two decimal places shown
     print("\nThe total is {}:\n".format(total))

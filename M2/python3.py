@@ -1,6 +1,6 @@
 a1 = [-1, -2, -3, -4, -5, -6, -7, -8, -9, -10]
 a2 = [-1, 1, -2, 2, 3, -3, -4, 5]
-a3 = ["-0.01", "-0.0001", "-.15"]
+a3 = [-0.01, -0.0001, -.15]
 a4 = ["-1", "2", "-3", "4", "-5", "5", "-6", "6", "-7", "7"]
 
 
@@ -9,7 +9,7 @@ def process_array(num, arr):
     print(arr)
     print("\nPositive Output:\n")
     for y in arr:
-        if(int(y)>=0):
+        if(int(y)>0):
             print(y,end=" ")
     # TODO add new code here to print the desired result
 
