@@ -2,7 +2,7 @@ import pytest
 import AdvCalc
 import pandas as pd
 
-d = pd.read_csv("/Users/chandanamurala/Documents/IS601/is601-004/M4/TestCSVFiles/Unit_Test_Square.csv")
+d = pd.read_csv("/Users/cmdin/OneDrive/Desktop/github/is601-004/M4/TestCSVFiles/Unit_Test_Square.csv")
 
 val1 = d["Value 1"]
 res = d["Result"]
