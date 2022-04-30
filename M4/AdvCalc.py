@@ -208,5 +208,3 @@ if __name__ == '__main__':
         print("Good bye")
         is_running = False
 
-class AdvCalc:
-    pass
