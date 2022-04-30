@@ -80,8 +80,8 @@ class MyCalc:
         return self.ans
 #ucid: dc648 date:13/03/2022
     def sroot(self, num1):
-        num1 = self._as_number(_num_)
-        r = math.sqrt(_num_)
+        num1 = self._as_number(num1)
+        r = math.sqrt(num1)
         self.ans = float('%.10g' % r)
         return self.ans
 #ucid: dc648 date:13/03/2022
