@@ -25,7 +25,7 @@ def register():
             return redirect(url_for('auth.login'))
         except SQLAlchemyError as e:
             print(e)
-            flash(str(e))
+            flash(str(e), "error")
             db.session.rollback()
 
     return render_template('registration.html', form=form)
