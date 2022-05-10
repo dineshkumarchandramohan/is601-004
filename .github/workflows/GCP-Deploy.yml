@@ -4,6 +4,7 @@ on:
     branches:
       - Flask-Sample # rename this to your prod branch if the naming differs
       - Flask-LoginReg
+      - Flask-History-And-Styles
 jobs:
 
     deploy:
