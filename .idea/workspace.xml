@@ -4,6 +4,9 @@
     <list default="true" id="64aa0b12-d2da-4724-84e4-139efb834b91" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.github/workflows/GCP-Deploy.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/GCP-Deploy.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample_app/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/sample_app/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample_app/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/sample_app/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample_app/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/sample_app/templates/layout.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
