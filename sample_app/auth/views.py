@@ -22,7 +22,7 @@ def register():
         try:
             db.session.add(user)
             db.session.commit()
-            flash("Successfully registered", "success")
+
             return redirect(url_for('auth.login'))
         except SQLAlchemyError as e:
             print(e)

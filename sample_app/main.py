@@ -6,6 +6,7 @@ from flask import Flask
 from flask_login import LoginManager
 from sqlalchemy import MetaData
 
+
 # added so modules can be found between the two different lookup states:
 # from tests and from regular running of the app
 CURR_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -26,14 +27,6 @@ def create_app(config_filename=''):
         app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False
 
     # configure flask-login
-
-    # use an environment variable to pull the secret key
-    # having this random each app start will clear the session every time the app reloads
-    # set SECRET_KEY the same way you do DB_URL, just a different value
-    SECRET_KEY = os.environ.get("SECRET_KEY", "thisisforlocal")  # os.urandom(32 )
-
-    SECRET_KEY = os.environ.get("SECRET_KEY", "thisisforlocal")  # os.urandom(32 )
-
 
     app.config["SECRET_KEY"] = SECRET_KEY
 
@@ -60,6 +53,7 @@ def setup_db(app):
         db.session.commit()
 
 
+
 def register_blueprints(app):
     from auth.models import User
 
@@ -77,8 +71,6 @@ def register_blueprints(app):
 
 if __name__ == "__main__":
     app = create_app()
-    app.run(debug=True, host='0.0.0.0', port=int(os.environ.get('PORT', 8081)))
-    from auth.models import db
 
     metadata = MetaData()
     metadata.reflect(bind=db.engine)

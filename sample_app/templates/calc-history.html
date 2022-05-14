@@ -14,24 +14,6 @@
             <td>{{hist.eq}}</td>
             <td>{{hist.result}}</td>
             <td>{{hist.created.strftime("%B %d, %Y %I:%M:%S %Z %p")}}</td>
-            <td>
-                <button class="btn btn-secondary" onclick="submitParentForm('{{hist.eq}}', '{{hist.result}}')">Load
-                </button>
-            </td>
-        </tr>
-        {% endfor %}
-        {% if history|length > 0 %}
-        {% for hist in history %}
-        <tr>
-            <td>{{hist.eq}}</td>
-            <td>{{hist.result}}</td>
-            <td>{{hist.created.strftime("%B %d, %Y %I:%M:%S %Z %p")}}</td>
-            <td>
-                <button class="btn btn-secondary" onclick="submitParentForm('{{hist.eq}}', '{{hist.result}}')">Load
-                </button>
-            </td>
-        </tr>
-        {% endfor %}
 
         {% else %}
         <tr>
