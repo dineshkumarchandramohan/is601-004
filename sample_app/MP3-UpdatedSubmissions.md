@@ -1,6 +1,6 @@
 <table><tr><td> <em>Assignment: </em> Mini Project 3 - Flask AdvCalc</td></tr>
 <tr><td> <em>Student: </em> Dinesh Kumar Chandramohan(dc648)</td></tr>
-<tr><td> <em>Generated: </em> 5/14/2022 3:21:20 PM</td></tr>
+<tr><td> <em>Generated: </em> 5/14/2022 3:27:43 PM</td></tr>
 <tr><td> <em>Grading Link: </em> <a rel="noreferrer noopener" href="https://learn.ethereallab.app/homework/IS601-004-S22/mini-project-3---flask-advcalc/grade/dc648" target="_blank">Grading</a></td></tr></table>
 <table><tr><td> <em>Instructions: </em> <ol>
 <li>Create a new branch called MP3-Flask-AdvCalc</li>
@@ -85,9 +85,9 @@
 </td></tr>
 </table></td></tr>
 <tr><td> <em>Sub-Task 4: </em> Explain how you implemented single delete of the history</td></tr>
-<tr><td> <em>Response:</em> <p>by sending the history id as argument and filtering the simple history table<br>using the history id,we can delete the single history item<br></p><br></td></tr>
+<tr><td> <em>Response:</em> <p>single delete history : by sending the history id as argument and filtering<br>the simple history table using the history id,we can delete the single history<br>item<br></p><br></td></tr>
 <tr><td> <em>Sub-Task 5: </em> Explain how you implemented deleting all of the logged in user's history</td></tr>
-<tr><td> <em>Response:</em> <p>write the query to pull all the history of an user with the<br>user_id and can delete all the history items of the user<br></p><br></td></tr>
+<tr><td> <em>Response:</em> <p>deleting all logged in user history : write the query to pull all<br>the history of an user with the user_id and can delete all the<br>history items of the user<br></p><br></td></tr>
 </table></td></tr>
 <table><tr><td> <em>Deliverable 5: </em> Test Cases </td></tr><tr><td><em>Status: </em> <img width="100" height="20" src="https://via.placeholder.com/400x120/009955/fff?text=Complete"></td></tr>
 <tr><td><table><tr><td> <em>Sub-Task 1: </em> Screenshot the test case code to register a test user via pytest</td></tr>
