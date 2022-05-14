@@ -14,9 +14,7 @@
             <td>{{hist.eq}}</td>
             <td>{{hist.result}}</td>
             <td>{{hist.created.strftime("%B %d, %Y %I:%M:%S %Z %p")}}</td>
-            <td><button class="btn btn-secondary" onclick="submitParentForm('{{hist.eq}}', '{{hist.result}}')">Load</button></td>
-        </tr>
-        {% endfor %}
+
         {% else %}
         <tr>
             <td colspan="100%">No history</td>
@@ -30,6 +28,7 @@
                 form.result.value = result;
                 form.submit();
             }
+
         </script>
     </table>
 </div>
